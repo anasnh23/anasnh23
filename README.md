@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <ul>
-            <li>🌱 I’m currently learning <strong>Java, Php, Laravel, Php dan Html</strong></li>
+            <li>🌱 I’m currently learning <strong>Java, Php, Laravel, Php and Html</strong></li>
             <li>💬 Ask me about <strong>web development</strong></li>
             <li>📫 How to reach me <strong>by saying I love you</strong></li>
         </ul>
