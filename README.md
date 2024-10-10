@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anas Nurhiayat</h1>
-<h3 align="center">I am a web developer & mobile developer from Indonesia!</h3>
+<h1 align="center">Hi 👋, I'm Anas Nh</h1>
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <ul>
             <li>🌱 I’m currently learning <strong>Java, Php, Laravel, Php and Html</strong></li>
-            <li>💬 Ask me about <strong>web development</strong></li>
             <li>📫 How to reach me <strong>by saying I love you</strong></li>
         </ul>
     </div>
