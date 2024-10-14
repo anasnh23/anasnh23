@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anas Nh</h1>
+<h1 align="center">Hi 👋</h1>
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -22,8 +22,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasnh23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasnh23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnh23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
